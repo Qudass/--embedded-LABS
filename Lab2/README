@@ -1,0 +1,27 @@
+# Lab2 – LEDs, Buttons, Interrupts
+
+**Discipline:** Programming Technologies C / Embedded  
+**Student:** Совенко Микита  
+**Group:** ФІОТ, 3 курс  
+**Platform:** Arduino UNO (Tinkercad)
+
+## Description
+Program controls 4 LEDs connected to digital pins D2–D5.
+Four different blinking algorithms are implemented.
+Modes are switched automatically every 3 seconds (remote mode).
+
+## Pin configuration
+- D2 – LED 1
+- D3 – LED 2
+- D4 – LED 3
+- D5 – LED 4
+- GND – common ground
+
+## Implemented modes
+1. Running light
+2. All LEDs blinking
+3. Pair blinking
+4. Checkerboard blinking
+
+## Media
+- Video: see `/lab2_video_link.txt`
